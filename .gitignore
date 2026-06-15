@@ -1,0 +1,11 @@
+# Ignore compiled Java class files recursively
+**/*.class
+
+# Ignore local database file
+data_surat.txt
+
+# Ignore IDE / VS Code configurations
+.vscode/
+
+# Ignore local agent files
+.system_generated/
